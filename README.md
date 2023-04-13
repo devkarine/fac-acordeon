@@ -20,7 +20,7 @@ Quando clicado em cima da pergunta, aparece a resposta que está escondida e ao 
 ## 🖱️ A página
 <img src="src/images/desktop-mobile.gif" alt="Gif exibindo o desktop e versão mobile do site">    
 
-> <a href="https://devkarine.github.io/fac-acordeon/" target= "_blank">Acesse a página online</a>  
+> <a href="https://devkarine.github.io/fac-acordeon/" target= "_blank" > Acesse a página online </a>  
 
 
 ## 👩‍💻 Dev
